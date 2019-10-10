@@ -1,2 +1,3 @@
 # zospeum
-graphql-code-generator plugin for lit-element based PWA
+
+Schema presets for splitting up graphql-code-generator plugins by distinct object types
