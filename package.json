@@ -1,6 +1,6 @@
 {
   "name": "zospeum",
-  "version": "1.0.1",
+  "version": "1.0.40",
   "description": "GraphQL Code Generator preset for generating operation code near the operation file",
   "repository": "git@github.com:petecarapetyan/zospeum",
   "license": "MIT",
