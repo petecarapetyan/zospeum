@@ -1,3 +1,3 @@
 # zospeum
 
-Schema presets for splitting up graphql-code-generator plugins by distinct object types
+This project is not active and should not be used.
